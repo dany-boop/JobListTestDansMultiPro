@@ -1,5 +1,5 @@
 import { Route, Routes } from 'react-router-dom';
-import Dashboard from './pages/dashboard';
+import Dashboard from './pages/dashboard'
 import Detail from './pages/detail';
 import { GoogleOAuthProvider } from '@react-oauth/google';
 import Login from './pages/auth/Login';
